@@ -1,0 +1,7 @@
+# Ficheiros do eclipse
+.classpath
+.project
+.settings/
+
+# Diretório de ficheiros compilados
+bin/
